@@ -60,7 +60,7 @@ These days NFTs are also being categorised under the future investment as with t
 Minting process will increase the total supply of the custom token. In the case of NFT, the total supply can be only 1.
 
 ## Subquest: NFT creation flow ##
-![Alt text](create-nft-solana.png?raw=true "Aidrop Token")
+![Alt text](/learn_src/learn_assets/create-nft-solana.png?raw=true "Aidrop Token")
 
 ## Subquest: Create NFT util functions ##
 As NFTs are meant to be represented in the form of image/video/gif, hence each NFT needs to be associated with a metadata account which can hold the image/video/gif for the NFT and fetch the data wherever needed.
